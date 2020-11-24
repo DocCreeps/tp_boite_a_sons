@@ -1,0 +1,12 @@
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\obj\Debug\VERICEL_Dorian.csprojAssemblyReference.cache
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\obj\Debug\VERICEL_Dorian.MusicBox.resources
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\obj\Debug\VERICEL_Dorian.Properties.Resources.resources
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\obj\Debug\VERICEL_Dorian.csproj.GenerateResource.cache
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\bin\Debug\VERICEL_Dorian.exe.config
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\bin\Debug\VERICEL_Dorian.exe
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\bin\Debug\VERICEL_Dorian.pdb
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\obj\Debug\VERICEL_Dorian.csproj.CopyComplete
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\obj\Debug\VERICEL_Dorian.exe
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\obj\Debug\VERICEL_Dorian.pdb
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\bin\Debug\NAudio.dll
+C:\Users\doria\Desktop\TP6\VERICEL_Dorian\bin\Debug\NAudio.xml
